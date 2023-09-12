@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/replyre/Tic_Tac_Toe-React/static/css/main.3ced891e.css",
+    "main.js": "/replyre/Tic_Tac_Toe-React/static/js/main.e3b3a2c1.js",
+    "index.html": "/replyre/Tic_Tac_Toe-React/index.html",
+    "main.3ced891e.css.map": "/replyre/Tic_Tac_Toe-React/static/css/main.3ced891e.css.map",
+    "main.e3b3a2c1.js.map": "/replyre/Tic_Tac_Toe-React/static/js/main.e3b3a2c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ced891e.css",
+    "static/js/main.e3b3a2c1.js"
+  ]
+}
